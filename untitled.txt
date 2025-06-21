@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KinConnect</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>KinConnect</h1>
+    <p>Bridging youth, sport, and community through smart technology</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About KinConnect</h2>
+      <p>KinConnect is an app designed to simplify youth sports logistics while honoring our shared cultural values and fostering real-world community bonds.</p>
+    </section>
+
+    <section id="features">
+      <h2>Key Features</h2>
+      <ul>
+        <li>Schedule training and match sessions effortlessly</li>
+        <li>Connect coaches, parents, and athletes in real time</li>
+        <li>Celebrate cultural moments with built-in heritage prompts</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Stay Connected</h2>
+      <p>Email us at <a href="mailto:info@kinconnect.app">info@kinconnect.app</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 KinConnect. All rights reserved.</p>
+  </footer>
+</body>
+</html>
